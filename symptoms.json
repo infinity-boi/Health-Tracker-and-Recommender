@@ -1,0 +1,482 @@
+{
+  "Abdominal pain in adults": {
+    "Abdominal swelling": [
+      "Appendicitis",
+      "Celiac disease",
+      "Crohn's disease",
+      "Food poisoning",
+      "Gastritis",
+      "Intestinal obstruction",
+      "Irritable bowel syndrome"
+    ],
+    "Black or bloody stools": [
+      "Crohn's disease",
+      "Peptic ulcer",
+      "Ulcerative colitis"
+    ],
+    "Constipation": [
+      "Appendicitis",
+      "Colon cancer",
+      "Constipation",
+      "Crohn's disease",
+      "Diverticulitis",
+      "Intestinal obstruction",
+      "Irritable bowel syndrome"
+    ],
+    "Diarrhea": [
+      "Appendicitis",
+      "Celiac disease",
+      "Colon cancer",
+      "Crohn's disease",
+      "Diverticulitis",
+      "Food poisoning",
+      "Intestinal obstruction",
+      "Irritable bowel syndrome",
+      "Lactose intolerance",
+      "Ulcerative colitis",
+      "Viral gastroenteritis (stomach flu)"
+    ],
+    "Fever": [
+      "Appendicitis",
+      "Cholecystitis",
+      "Crohn's disease",
+      "Diarrhea",
+      "Diverticulitis",
+      "Food poisoning",
+      "Gallstones",
+      "Viral gastroenteritis (stomach flu)"
+    ],
+    "Inability to move bowels in spite of urge": [
+      "Ulcerative colitis"
+    ],
+    "Loose watery stools": [
+      "Diarrhea"
+    ],
+    "Nausea or vomiting": [
+      "Appendicitis",
+      "Cholecystitis",
+      "Crohn's disease",
+      "Diverticulitis",
+      "Food poisoning",
+      "Gallstones",
+      "Gastritis",
+      "Intestinal obstruction",
+      "Kidney stones",
+      "Lactose intolerance",
+      "Functional dyspepsia",
+      "Pancreatitis",
+      "Peptic ulcer",
+      "Viral gastroenteritis (stomach flu)"
+    ],
+    "Passing gas": [
+      "Celiac disease",
+      "Gas and gas pains",
+      "Irritable bowel syndrome",
+      "Lactose intolerance",
+      "Functional dyspepsia"
+    ],
+    "Pulsing sensation near the navel": [
+      "Abdominal aortic aneurysm"
+    ],
+    "Rash": [
+      "Celiac disease",
+      "Crohn's disease",
+      "Shingles",
+      "Ulcerative colitis"
+    ],
+    "Stomach growling or rumbling": [
+      "Celiac disease",
+      "Lactose intolerance"
+    ],
+    "Unintended weight loss": [
+      "Celiac disease",
+      "Colon cancer",
+      "Crohn's disease",
+      "Gastritis",
+      "Pancreatitis",
+      "Peptic ulcer",
+      "Ulcerative colitis"
+    ],
+    "Urgent need to have a bowel movement": [
+      "Diarrhea"
+    ]
+  },
+  "Blood in stool in adults": {
+    "Abdominal pain or cramping": [
+      "Colon polyps",
+      "Constipation",
+      "Crohn's disease",
+      "Diverticulitis",
+      "Gastritis",
+      "Intestinal ischemia",
+      "Ischemic colitis",
+      "Peptic ulcer",
+      "Proctitis",
+      "Ulcerative colitis"
+    ],
+    "Anal itching": [
+      "Hemorrhoids"
+    ],
+    "Change in your bowel habits": [
+      "Colon cancer"
+    ],
+    "Constipation": [
+      "Colon cancer",
+      "Colon polyps",
+      "Constipation",
+      "Diverticulitis"
+    ],
+    "Diarrhea": [
+      "Colon cancer",
+      "Colon polyps",
+      "Crohn's disease",
+      "Diverticulitis",
+      "Ischemic colitis",
+      "Proctitis",
+      "Ulcerative colitis"
+    ],
+    "Fatigue or weakness": [
+      "Colon cancer",
+      "Crohn's disease",
+      "Ulcerative colitis"
+    ],
+    "Fever": [
+      "Crohn's disease",
+      "Diverticulitis",
+      "Ischemic colitis",
+      "Ulcerative colitis"
+    ],
+    "Frequent urge to have bowel movement": [
+      "Intestinal ischemia",
+      "Ischemic colitis",
+      "Proctitis",
+      "Ulcerative colitis"
+    ],
+    "Narrow stools": [
+      "Colon cancer",
+      "Colon polyps"
+    ],
+    "Nausea or vomiting": [
+      "Colon cancer",
+      "Diverticulitis",
+      "Gastritis",
+      "Intestinal ischemia",
+      "Ischemic colitis",
+      "Peptic ulcer"
+    ],
+    "Painful bowel movements": [
+      "Anal fissure",
+      "Colon cancer",
+      "Proctitis"
+    ],
+    "Persistent abdominal discomfort, such as cramps, gas or pain": [
+      "Colon cancer"
+    ],
+    "Rectal pain": [
+      "Hemorrhoids",
+      "Proctitis",
+      "Ulcerative colitis"
+    ],
+    "Unintended weight loss": [
+      "Colon cancer",
+      "Crohn's disease",
+      "Ulcerative colitis"
+    ]
+  },
+  "Chest pain in adults": {
+    "Anxiety": [
+      "Angina",
+      "Heart attack",
+      "Panic attacks and panic disorder"
+    ],
+    "Belching": [
+      "Gastroesophageal reflux disease (GERD)",
+      "Heartburn"
+    ],
+    "Cough with blood or phlegm": [
+      "Pulmonary embolism"
+    ],
+    "Difficult or painful swallowing": [
+      "Esophageal spasms",
+      "Gastroesophageal reflux disease (GERD)",
+      "Panic attacks and panic disorder"
+    ],
+    "Dry cough": [
+      "Asthma",
+      "Pericarditis",
+      "Pleurisy"
+    ],
+    "Fainting or dizziness": [
+      "Heart attack",
+      "Panic attacks and panic disorder",
+      "Pulmonary embolism"
+    ],
+    "Fever": [
+      "Pericarditis",
+      "Pleurisy"
+    ],
+    "Headache": [
+      "Panic attacks and panic disorder"
+    ],
+    "Nausea or vomiting": [
+      "Angina",
+      "Heart attack",
+      "Panic attacks and panic disorder"
+    ],
+    "Pain in neck, jaw, arms, shoulders or back": [
+      "Angina",
+      "Heart attack"
+    ],
+    "Rapid or irregular heartbeat": [
+      "Heart attack",
+      "Panic attacks and panic disorder",
+      "Pulmonary embolism"
+    ],
+    "Shortness of breath": [
+      "Angina",
+      "Asthma",
+      "Heart attack",
+      "Panic attacks and panic disorder",
+      "Pericarditis",
+      "Pleurisy",
+      "Pulmonary embolism"
+    ],
+    "Sweating": [
+      "Angina",
+      "Heart attack",
+      "Panic attacks and panic disorder",
+      "Pulmonary embolism"
+    ],
+    "Unexplained fatigue": [
+      "Angina",
+      "Heart attack",
+      "Pericarditis"
+    ],
+    "Wheezing": [
+      "Asthma"
+    ]
+  },
+  "Cough in adults": {
+    "Chest pain or tightness": [
+      "Asthma",
+      "Bronchitis",
+      "Emphysema",
+      "Gastroesophageal reflux disease (GERD)",
+      "Pneumonia"
+    ],
+    "Chills or sweating": [
+      "Influenza (flu)",
+      "Pneumonia"
+    ],
+    "Difficult or painful swallowing": [
+      "Gastroesophageal reflux disease (GERD)"
+    ],
+    "Fatigue": [
+      "Acute sinusitis",
+      "Bronchitis",
+      "Chronic sinusitis",
+      "Common cold",
+      "Emphysema",
+      "Hay fever",
+      "Influenza (flu)",
+      "Pneumonia"
+    ],
+    "Fever": [
+      "Acute sinusitis",
+      "Bronchitis",
+      "Influenza (flu)",
+      "Pneumonia"
+    ],
+    "Headache or facial pain": [
+      "Acute sinusitis",
+      "Chronic sinusitis",
+      "Common cold",
+      "Hay fever",
+      "Influenza (flu)",
+      "Pneumonia"
+    ],
+    "Hoarse voice": [
+      "Gastroesophageal reflux disease (GERD)",
+      "Laryngitis"
+    ],
+    "Loss of appetite": [
+      "Emphysema",
+      "Influenza (flu)"
+    ],
+    "Muscle aches": [
+      "Influenza (flu)",
+      "Pneumonia"
+    ],
+    "Runny or stuffy nose": [
+      "Acute sinusitis",
+      "Bronchitis",
+      "Chronic sinusitis",
+      "Common cold",
+      "Hay fever",
+      "Influenza (flu)",
+      "Pneumonia"
+    ],
+    "Shortness of breath": [
+      "Asthma",
+      "Bronchitis",
+      "Emphysema",
+      "Pneumonia"
+    ],
+    "Sneezing": [
+      "Common cold",
+      "Hay fever",
+      "Influenza (flu)"
+    ],
+    "Sore throat": [
+      "Acute sinusitis",
+      "Bronchitis",
+      "Chronic sinusitis",
+      "Common cold",
+      "Gastroesophageal reflux disease (GERD)",
+      "Hay fever",
+      "Influenza (flu)",
+      "Laryngitis",
+      "Pneumonia"
+    ],
+    "Watery or itchy eyes": [
+      "Common cold",
+      "Hay fever"
+    ],
+    "Wheezing": [
+      "Asthma",
+      "Bronchitis",
+      "Emphysema",
+      "Gastroesophageal reflux disease (GERD)"
+    ]
+  },
+  "Diarrhea in adults": {
+    "Abdominal pain or cramping": [
+      "Antibiotic-associated diarrhea",
+      "Celiac disease",
+      "Crohn's disease",
+      "Food poisoning",
+      "Giardia infection (giardiasis)",
+      "ntestinal obstruction",
+      "Irritable bowel syndrome",
+      "Ischemic colitis",
+      "Lactose intolerance",
+      "Pseudomembranous colitis",
+      "Traveler's diarrhea",
+      "Ulcerative colitis",
+      "Viral gastroenteritis (stomach flu)"
+    ],
+    "Bloating or abdominal swelling": [
+      "Celiac disease",
+      "Giardia infection (giardiasis)",
+      "Intestinal obstruction",
+      "Lactose intolerance",
+      "Traveler's diarrhea"
+    ],
+    "Bloody stools": [
+      "Antibiotic-associated diarrhea",
+      "Crohn's disease",
+      "Ischemic colitis",
+      "Ulcerative colitis"
+    ],
+    "Constipation": [
+      "Intestinal obstruction",
+      "Irritable bowel syndrome"
+    ],
+    "Fever": [
+      "Antibiotic-associated diarrhea",
+      "Crohn's disease",
+      "Food poisoning",
+      "Intestinal obstruction",
+      "Ischemic colitis",
+      "Pseudomembranous colitis",
+      "Traveler's diarrhea",
+      "Ulcerative colitis",
+      "Viral gastroenteritis (stomach flu)"
+    ],
+    "Mucus in stools": [
+      "Antibiotic-associated diarrhea",
+      "Irritable bowel syndrome",
+      "Pseudomembranous colitis"
+    ],
+    "Muscle or joint aches": [
+      "Celiac disease",
+      "Crohn's disease",
+      "Ulcerative colitis",
+      "Viral gastroenteritis (stomach flu)"
+    ],
+    "Nausea or vomiting": [
+      "Antibiotic-associated diarrhea",
+      "Crohn's disease",
+      "Food poisoning",
+      "Giardia infection (giardiasis)",
+      "Intestinal obstruction",
+      "Ischemic colitis",
+      "Lactose intolerance",
+      "Pseudomembranous colitis",
+      "Traveler's diarrhea",
+      "Viral gastroenteritis (stomach flu)"
+    ],
+    "Passing gas": [
+      "Giardia infection (giardiasis)",
+      "Irritable bowel syndrome",
+      "Lactose intolerance"
+    ],
+    "Unintended weight loss": [
+      "Celiac disease",
+      "Crohn's disease",
+      "Giardia infection (giardiasis)",
+      "Ulcerative colitis"
+    ],
+    "Urgency to have a bowel movement": [
+      "Ischemic colitis",
+      "Pseudomembranous colitis",
+      "Ulcerative colitis"
+    ]
+  },
+  "Eye discomfort and redness in adults": {
+    "Runny or stuffy nose": [
+      "Hay fever"
+    ]
+  },
+  "Eye problems in adults": {
+    "Confusion or trouble talking": [
+      "Stroke",
+      "Transient ischemic attack (TIA)"
+    ],
+    "Dizziness or difficulty walking": [
+      "Stroke",
+      "Transient ischemic attack (TIA)"
+    ],
+    "Eye pain or discomfort": [
+      "Iritis",
+      "Optic neuritis",
+      "Uveitis"
+    ],
+    "Eye redness": [
+      "Iritis"
+    ],
+    "Eyestrain": [
+      "Astigmatism",
+      "Farsightedness",
+      "Nearsightedness",
+      "Presbyopia"
+    ],
+    "Headache": [
+      "Astigmatism",
+      "Farsightedness",
+      "Migraine with aura",
+      "Nearsightedness",
+      "Presbyopia"
+    ],
+    "Numbness or weakness on one side of the body": [
+      "Stroke",
+      "Transient ischemic attack (TIA)"
+    ],
+    "Other sensory disturbances": [
+      "Migraine with aura"
+    ],
+    "Swelling around the eye": [
+      "Uveitis"
+    ]
+  }
+}
